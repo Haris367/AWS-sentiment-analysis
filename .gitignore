@@ -18,3 +18,4 @@ __pycache__/
 # General
 .DS_Store
 .env
+.terraform/
